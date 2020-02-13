@@ -1,3 +1,4 @@
 #Ignored files
  
 secrets.txt
+.DS_Store
